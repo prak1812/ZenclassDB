@@ -1,0 +1,13 @@
+Sample Documents:
+
+
+- _id: A1
+user_id: U1
+date: 2020-10-16
+status: present
+
+
+- _id: A2
+user_id: U2
+date: 2020-10-16
+status: absent
